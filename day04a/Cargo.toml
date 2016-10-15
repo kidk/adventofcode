@@ -1,0 +1,6 @@
+[package]
+name = "day04a"
+version = "0.1.0"
+authors = ["Samuel Vandamme <samuel@sava.be>"]
+[dependencies]
+rust-crypto = "0.2.34"
